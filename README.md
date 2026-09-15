@@ -1,6 +1,6 @@
 📌 About This Repository
 
-This repository contains my Python learning and practice work, where I learn Python concepts and implement them practically using Jupyter Notebook.
+This repository contains my Python learning and practice work from basic, where I learn Python concepts and implement them practically using Jupyter Notebook.
 
 As a Final-Year B.Tech Artificial Intelligence & Machine Learning student, I am strengthening my Python fundamentals because Python is an important foundation for Data Science, Machine Learning, Deep Learning, and Generative AI.
 
