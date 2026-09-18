@@ -5,7 +5,7 @@ This repository contains my Python learning and practice work from basic, where 
 As a Final-Year B.Tech Artificial Intelligence & Machine Learning student, I am strengthening my Python fundamentals because Python is an important foundation for Data Science, Machine Learning, Deep Learning, and Generative AI.
 
 The main purpose of this repository is to learn by coding, practice regularly, and build a strong Python foundation for my AI/ML journey.
-
+  
 🎯 Learning Objectives
 
 Through this practice repository, I am focusing on:
